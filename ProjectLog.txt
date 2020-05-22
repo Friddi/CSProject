@@ -1,0 +1,29 @@
+*** Project Notebook ***
+Author: Friðgeir Ingi Jónsson
+Course Code: DA3018
+Course Name: Computer Science for Mathematicians
+
+This log is a notebook for the final project of the course. Here I write
+almost everything I do and most of my ideas for the project as well.
+
+
+05.22.2020
+
+The first step is to get somewhat aquainted with the structure of the overlaps.m4
+ file.
+	* To do this I use simple unix commands like less to
+	  navigate the file in a way that does not use to much
+	  computer power. Opening the file in a text editor is
+	  practically not feasible because of the files size.
+	* It might be practical to know how many edges are in 
+	  the file so we use the bash command 
+	
+		wc -l
+	 
+	  to count the lines in the file and saving them to
+	  log. We see that there are
+  
+		64056772
+
+	  lines in the file. 
+
